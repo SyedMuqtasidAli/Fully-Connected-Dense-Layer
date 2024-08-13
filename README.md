@@ -52,6 +52,8 @@ To run the Jupyter Notebook and start training the model, follow these steps:
 ## Contact 📬
 Feel free to contact me on LinkedIn for any questions or collaborations:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muqtasid5266@gmail.com)
+
 
 ## License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
